@@ -32,7 +32,7 @@ int main()
     printf("\n--- ARAMA MENUSU ---\n\n");
     printf("1 - Isme Gore Ara\n");
     printf("2 - Soyisme Gore Ara\n");
-    printf("3 - Sehire Gore Ara\n\n");
+    printf("3 - Adrese Gore Ara\n\n");
     printf("---------------------\n\n");
 
     printf("Lutfen bir secim yapiniz. (1-3)\n\n");
