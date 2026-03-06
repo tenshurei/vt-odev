@@ -70,11 +70,11 @@ int main()
         convertToLower(soyisim);
         convertToLower(adres);
 
-        if(secim == 1 && strcmp(isim, aranan) == 0) 
+        if(secim == 1 && !strcmp(isim, aranan) == true)
             eslesme = true;
-        else if(secim == 2 && strcmp(soyisim, aranan) == 0) 
+        else if(secim == 2 && !strcmp(soyisim, aranan) == true) 
             eslesme = true;
-        else if(secim == 3 && strcmp(adres, aranan) == 0) 
+        else if(secim == 3 && !strcmp(adres, aranan) == true) 
             eslesme = true;
 
         if(eslesme == true)
