@@ -1,0 +1,8 @@
+1, Adnan, Peker, 5100000000, Konya
+2, Ibrahim, Tas, 5200000000, Konya
+3, Lutfi, Uluad, 5300000000, Karaman
+4, Zekeriya, Han, 5400000000, Karaman
+5, Ali, Veli, 5424244242, Istanbul
+6, Ayse, Gonca, 5547527572, Kocaeli
+7, Nur, Tekin, 5322452424, Mersin  
+8, Ibrahim, Halil, 5242787777, Konya
